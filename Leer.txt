@@ -1,0 +1,6 @@
+Este es un verdadero proyecto al cual tengo permiso para subir a mi repositorio.
+Fue para un supermercado real que necesitaba un analisis para saber como reposicionar sus productos ya que pensaban cambiar su infraestructura.
+
+Para el apartado de python hay que installar las bibliotecas para su uso
+
+Gracias por ver
